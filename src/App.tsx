@@ -1,4 +1,3 @@
-src/App.tsx
 import React, { useState } from 'react';
 import { HeaderNavbar } from './components/HeaderNavbar';
 import { NavigationRail, NavTab } from './components/NavigationRail';
